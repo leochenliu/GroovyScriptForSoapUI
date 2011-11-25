@@ -1,0 +1,6 @@
+Groovy Scripts for SoapUI tries to help you to finish some common tasks, for examples: add asserts to your test step, change test case name...
+
+How to run?
+---------------------
+add a groovy script step in your testcase
+click "run" to run it.
